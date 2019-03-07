@@ -2,7 +2,7 @@
 # Uri Judge Iniciante - Usando linguagem C
 
 
-Repositório em construção, todos os dias 5 resoluções novas :rocket:
+Repositório em construção :rocket:
 
 
 ## Autoria
