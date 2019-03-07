@@ -1,5 +1,5 @@
 
-# Uri Judge Iniciante - Usando linguagem C
+# Uri Judge Iniciante
 
 
 Repositório em construção :rocket:
