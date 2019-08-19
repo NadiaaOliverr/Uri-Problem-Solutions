@@ -1,7 +1,5 @@
 
-# Uri Judge Iniciante
-
-Repositório em construção :rocket:
+## Problems solved :rocket: 
 
 | **URI Problem Number** | **URI Problem Name** | **Language** |
 |:------------------:|:----------------:|:--------:|
