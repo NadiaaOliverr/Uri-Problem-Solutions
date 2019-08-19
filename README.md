@@ -13,9 +13,4 @@
 |        1008        |      Salary      |     C    |
 |        1009        |   Bonus Salary   |     C    |
 
-
-## Autoria
-
-[<img src="https://avatars0.githubusercontent.com/u/41811634?s=460&v=4" width="100px;"/><br/><sub><b>Nádia Oliveira</b></sub>](https://github.com/NadiaOliver)<br />
-
-Copyright © 2019.
+**Want to contribute? Submit a pull request with your algorithm** :wink:
