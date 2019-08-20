@@ -13,7 +13,7 @@
 |        1008        |      [Salary](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1008%20-%20Sal%C3%A1rio.c)      |     C    |
 |        1009        |   [Bonus Salary](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1009%20-%20Sal%C3%A1rio%20com%20B%C3%B4nus.c)   |     C
 | 1010 | [	Simple Calculation](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1010%20-%20C%C3%A1lculo%20Simples.c) | C
-| 1011 | [Ball]() | C
+| 1011 | [Ball](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1011%20-%20%20Esfera.c) | C
 | 1012 | [Area](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1012%20-%20%C3%81rea.c) | C
 | 1013 | [The biggest](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1013%20-%20O%20maior.c) | C
 | 1014 | [Consumption](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1014%20-%20Consumo.c) | C
