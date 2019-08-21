@@ -1,5 +1,5 @@
 
-## Problems solved :rocket: 
+## Problemas resolvidos :rocket: 
 
 | **URI Problem Number** | **URI Problem Name** | **Language** |
 |:------------------:|:----------------:|:--------:|
@@ -29,4 +29,4 @@
 | 1037 | [Interval](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1037%20-%20%20Intervalo.c) | C
 | 1038 | [Snack](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1038%20-%20Lanche.c) | C
 
-**Want to contribute? Submit a pull request with your algorithm** :wink:
+**Quer ajudar a construir este repositório? Envie uma pull request com sua resolução** :wink:
