@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="200" height="150" src="https://user-images.githubusercontent.com/41811634/63442127-f0c90880-c408-11e9-96c5-b3a3168e3d2f.png">
+</p>
+
 ## Sobre o Projeto :muscle:
 Com o intuito de aprimorar minhas **skills** de **resolução de problemas** codifiquei vários exercícios do nível iniciante do [Uri Online Judge](https://www.urionlinejudge.com.br/judge/pt), que é um plataforma que permite a submissão de solução em diversas linguagens, além de ter uma vasta gama de categorias de problemas, por exemplo; iniciante, strings, estruturas, dentre outros. 
 
