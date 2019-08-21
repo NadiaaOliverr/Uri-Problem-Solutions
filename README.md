@@ -1,3 +1,5 @@
+## Sobre o Projeto
+Com o intuito de aprimorar minhas **skills** de **resolução de problemas** codifiquei vários exercícios do nível iniciante do [URI ONLINE JUDGE](https://www.urionlinejudge.com.br/judge/pt), que é um plataforma que permite a submissão de solução em diversas linguagens, além de ter uma vasta gama de categorias de problemas, por exemplo; iniciante, strings, estruturas, dentre outros. 
 
 ## Problemas resolvidos :rocket: 
 
@@ -28,31 +30,31 @@
 | 1036 | [Fórmula de Bhaskara ](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1036%20-%20F%C3%B3rmula%20de%20Bhaskara.c) | C
 | 1037 | [Intervalo](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1037%20-%20%20Intervalo.c) | C
 | 1038 | [Lanche](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1038%20-%20Lanche.c) | C
-| 1040 | [Média 3]() | C
-| 1041 | [Coordenadas de um Ponto]() | C
-| 1042 | [Sort Simples]() | C
-| 1043 | [Triângulo]() | C
-| 1044 | [Múltiplos]() | C
-| 1045 | [Tipos de Triângulo]() | C
-| 1046 | [Tempo de Jogo]() | C
-| 1047 | [Tempo de Jogo com Minutos]() | C
-| 1048 | [Aumento de Salário]() | C
-| 1049 | [Animal]() | C
-| 1050 | [DDD]() | C
-| 1051 | [Imposto de Renda]() | C
-| 1052 | [Mês]() | C
-| 1059 | [Números Pares]() | C
-| 1060 | [Números Positivos]() | C
-| 1061 | [Tempo de um Evento]() | C
-| 1064 | [Positivos e Média]() | C
-| 1065 | [Pares entre Cinco Números]() | C
-| 1066 | [Pares, Ímpares, Positivos e Negativos]() | C
-| 1067 | [Números Ímpares]() | C
-| 1070 | [Seis Números Ímpares]() | C
-| 1071 | [Soma de Ímpares Conseutivos I]() | C
-| 1072 | [Intervalo 2]() | C
-| 1073 | [Quadrado de Pares]() | C
-| 1074 | [Par ou Ímpar]() | C
+| 1040 | [Média 3](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1040%20-%20M%C3%A9dia%203.c) | C
+| 1041 | [Coordenadas de um Ponto](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1041%20-%20Coordenadas%20de%20um%20ponto.c) | C
+| 1042 | [Sort Simples](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1042%20-%20Sort%20Simples.c) | C
+| 1043 | [Triângulo](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1043%20-%20Tri%C3%A2ngulo.c) | C
+| 1044 | [Múltiplos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1044%20-%20M%C3%BAltiplos.c) | C
+| 1045 | [Tipos de Triângulo](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1045%20-%20Tipos%20de%20Tri%C3%A2ngulos.c) | C
+| 1046 | [Tempo de Jogo](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1046%20-%20Tempo%20de%20Jogo.c) | C
+| 1047 | [Tempo de Jogo com Minutos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1047%20-%20%20Tempo%20de%20Jogo%20com%20Minutos.c) | C
+| 1048 | [Aumento de Salário](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1048%20-%20Aumento%20de%20Sal%C3%A1rio.c) | C
+| 1049 | [Animal](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1049%20-%20Animal.c) | C
+| 1050 | [DDD](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1050%20-%20DDD.c) | C
+| 1051 | [Imposto de Renda](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1051%20-%20Imposto%20de%20Renda.c) | C
+| 1052 | [Mês](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1052%20-%20M%C3%AAs.c) | C
+| 1059 | [Números Pares](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1059%20-%20N%C3%BAmeros%20pares.c) | C
+| 1060 | [Números Positivos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1060%20-%20N%C3%BAmeros%20Positivos.c) | C
+| 1061 | [Tempo de um Evento](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1061%20-%20Tempo%20de%20um%20Evento.c) | C
+| 1064 | [Positivos e Média](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1064%20-%20Positivos%20e%20M%C3%A9dia.c) | C
+| 1065 | [Pares entre Cinco Números](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1065%20-%20Pares%20entre%20Cinco%20N%C3%BAmeros.c) | C
+| 1066 | [Pares, Ímpares, Positivos e Negativos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1066%20-%20Pares%2C%20%C3%8Dmpares%2C%20Positivos%20e%20Negativos.c) | C
+| 1067 | [Números Ímpares](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1067%20-%20N%C3%BAmeros%20%C3%8Dmpares.c) | C
+| 1070 | [Seis Números Ímpares](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1070%20-%20%20Seis%20n%C3%BAmeros%20%C3%8Dmpares.c) | C
+| 1071 | [Soma de Ímpares Conseutivos I](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1071%20-%20Soma%20de%20%C3%8Dmpares%20Consecutivos%20I.c) | C
+| 1072 | [Intervalo 2](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1072%20-%20Intervalo%202.c) | C
+| 1073 | [Quadrado de Pares](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1073%20-%20Quadrado%20de%20Pares.c) | C
+| 1074 | [Par ou Ímpar](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1074%20-%20Par%20ou%20%C3%8Dmpar.c) | C
 
 
 **Quer ajudar a construir este repositório? Envie uma pull request com sua resolução** :wink:
