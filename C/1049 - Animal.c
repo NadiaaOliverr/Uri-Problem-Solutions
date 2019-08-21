@@ -1,12 +1,3 @@
-/*Neste problema, você deverá ler 3 palavras que definem o tipo de animal possível segundo o esquema abaixo, da esquerda 
-para a direita.  Em seguida conclua qual dos animais seguintes foi escolhido, através das três palavras fornecidas.
-Tabela : https://uploaddeimagens.com.br/imagens/1049-png
----Entrada---
-A entrada contém 3 palavras, uma em cada linha, necessárias para identificar o animal segundo a figura acima, com todas as 
-letras minúsculas.
----Saída---
-Imprima o nome do animal correspondente à entrada fornecida.*/
-
 #include <stdio.h>
 #include <string.h>
 
@@ -18,7 +9,7 @@ int main()
 	
 	scanf("%s",&palavra1); 
 	scanf("%s",&palavra2);
-	scanf("%s",&palavra3); //Para ler com espaço : 	scanf("%[^\n]s",&palavra3);
+	scanf("%s",&palavra3); //Para ler com espaï¿½o : 	scanf("%[^\n]s",&palavra3);
 	
 	if(strcmp(palavra1,"vertebrado")==0){
 		if(strcmp(palavra2, "ave")==0){

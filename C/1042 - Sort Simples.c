@@ -1,11 +1,3 @@
-/*Leia 3 valores inteiros e ordene-os em ordem crescente. No final, mostre os valores 
-em ordem crescente, uma linha em branco e em seguida,os valores na sequência como 
-foram lidos.
----Entrada--
-A entrada contem três números inteiros.
----Saída---
-Imprima a saída conforme foi especificado.*/
-
 #include <stdio.h>
 
 int main()
@@ -26,9 +18,9 @@ int main()
 		{
 			 if ( vetor[i] > vetor[j] )
      		 {
-         		auxiliar = vetor[i]; //Recebe o valor anterior que será trocado, pois ele é maior ---> Anterior| Próximo
-         		vetor[i] = vetor[j]; //Colocando o valor próximo, na posição do anterior, pois ele é menor
-         		vetor[j] = auxiliar; //Colocando o valor anterior no lugar do próximo, troca efetuada 
+         		auxiliar = vetor[i]; //Recebe o valor anterior que serï¿½ trocado, pois ele ï¿½ maior ---> Anterior| Prï¿½ximo
+         		vetor[i] = vetor[j]; //Colocando o valor prï¿½ximo, na posiï¿½ï¿½o do anterior, pois ele ï¿½ menor
+         		vetor[j] = auxiliar; //Colocando o valor anterior no lugar do prï¿½ximo, troca efetuada 
       		 }
     	}
 	}
