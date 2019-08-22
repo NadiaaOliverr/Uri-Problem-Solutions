@@ -59,6 +59,38 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1072 | [Intervalo 2](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1072%20-%20Intervalo%202.c) | C
 | 1073 | [Quadrado de Pares](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1073%20-%20Quadrado%20de%20Pares.c) | C
 | 1074 | [Par ou Ímpar](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1074%20-%20Par%20ou%20%C3%8Dmpar.c) | C
+| 1075 | [Resto 2](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1075%20-%20Resto%202.py) | Python
+| 1078 | [Tabuada](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1078%20-%20Tabuada.py) | Python
+| 1079 | [Médias Ponderadas]() | Python
+| 1080 | [Maior e Posição]() | Python
+| 1094 | [Experiências]() | Python
+| 1095 | [Sequencia IJ 1]() | Python
+| 1096 | [Sequencia IJ 2]() | Python
+| 1097 | [Sequencia IJ 3]() | Python
+| 1098 | [Sequencia IJ 4]() | Python
+| 1099 | [Soma de Ímpares Consecutivos II]() | Python
+| 1101 | [Sequência de Números e Soma]() | Python
+| 1113 | [Crescente e Decrescente]() | Python
+| 1114 | [Senha Fixa]() | Python
+| 1115 | [Quadrante]() | Python
+| 1116 | [Dividindo X por Y]() | Python
+| 1117 | [Validação de Nota]() | Python
+| 1118 | [Várias Notas Com Validação]() | Python
+| 1131 | [Grenais]() | Python
+| 1132 | [Múltiplos de 13]() | Python
+| 1133 | [Resto da Divisão]() | Python
+| 1134 | [Tipo de Combustível]() | Python
+| 1142 | [PUM]() | Python
+| 1143 | [Quadrado e ao Cubo]() | Python
+| 1144 | [Sequência Lógica]() | Python
+| 1145 | [Sequência Lógica 2]() | Python
+| 1146 | [Sequências Crescentes]() | Python
+| 1149 | [Somando Inteiros Consecutivos]() | Python
+
+
+
+
+
 
 
 **Quer ajudar a construir este repositório? Envie uma pull request com sua resolução** :wink:
