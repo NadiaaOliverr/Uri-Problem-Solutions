@@ -61,31 +61,31 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1074 | [Par ou Ímpar](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1074%20-%20Par%20ou%20%C3%8Dmpar.c) | C
 | 1075 | [Resto 2](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1075%20-%20Resto%202.py) | Python
 | 1078 | [Tabuada](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1078%20-%20Tabuada.py) | Python
-| 1079 | [Médias Ponderadas]() | Python
-| 1080 | [Maior e Posição]() | Python
-| 1094 | [Experiências]() | Python
-| 1095 | [Sequencia IJ 1]() | Python
-| 1096 | [Sequencia IJ 2]() | Python
-| 1097 | [Sequencia IJ 3]() | Python
-| 1098 | [Sequencia IJ 4]() | Python
-| 1099 | [Soma de Ímpares Consecutivos II]() | Python
-| 1101 | [Sequência de Números e Soma]() | Python
-| 1113 | [Crescente e Decrescente]() | Python
-| 1114 | [Senha Fixa]() | Python
-| 1115 | [Quadrante]() | Python
-| 1116 | [Dividindo X por Y]() | Python
-| 1117 | [Validação de Nota]() | Python
-| 1118 | [Várias Notas Com Validação]() | Python
-| 1131 | [Grenais]() | Python
-| 1132 | [Múltiplos de 13]() | Python
-| 1133 | [Resto da Divisão]() | Python
-| 1134 | [Tipo de Combustível]() | Python
-| 1142 | [PUM]() | Python
-| 1143 | [Quadrado e ao Cubo]() | Python
-| 1144 | [Sequência Lógica]() | Python
-| 1145 | [Sequência Lógica 2]() | Python
-| 1146 | [Sequências Crescentes]() | Python
-| 1149 | [Somando Inteiros Consecutivos]() | Python
+| 1079 | [Médias Ponderadas](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1079%20-%20M%C3%A9dias%20Ponderadas.py) | Python
+| 1080 | [Maior e Posição](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1080%20-%20Maior%20e%20Posi%C3%A7%C3%A3o.py) | Python
+| 1094 | [Experiências](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1094%20-%20Experi%C3%AAncias.py) | Python
+| 1095 | [Sequencia IJ 1](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1095%20-%20Sequencia%20IJ%201.py) | Python
+| 1096 | [Sequencia IJ 2](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1096%20-%20Sequencia%20IJ%202.py) | Python
+| 1097 | [Sequencia IJ 3](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1097%20-%20Sequencia%20IJ%203.py) | Python
+| 1098 | [Sequencia IJ 4](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1098%20-%20Sequencia%20IJ%204.py) | Python
+| 1099 | [Soma de Ímpares Consecutivos II](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1099%20-%20Soma%20de%20%C3%8Dmpares%20Consecutivos%20II.py) | Python
+| 1101 | [Sequência de Números e Soma](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1101%20-%20Sequ%C3%AAncia%20de%20N%C3%BAmeros%20e%20Soma.py) | Python
+| 1113 | [Crescente e Decrescente](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1113%20-%20Crescente%20e%20Decrescente.py) | Python
+| 1114 | [Senha Fixa](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1114%20-%20Senha%20Fixa.py) | Python
+| 1115 | [Quadrante](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1115%20-%20Quadrante.py) | Python
+| 1116 | [Dividindo X por Y](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1116%20-%20Dividindo%20X%20por%20Y.py) | Python
+| 1117 | [Validação de Nota](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1117%20-%20Valida%C3%A7%C3%A3o%20de%20Nota.py) | Python
+| 1118 | [Várias Notas Com Validação](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1118%20-%20V%C3%A1rias%20Notas%20Com%20Valida%C3%A7%C3%A3o.py) | Python
+| 1131 | [Grenais](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1131%20-%20Grenais.py) | Python
+| 1132 | [Múltiplos de 13](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1132%20-%20M%C3%BAltiplos%20de%2013.py) | Python
+| 1133 | [Resto da Divisão](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1133%20-%20Resto%20da%20Divis%C3%A3o.py) | Python
+| 1134 | [Tipo de Combustível](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1134%20-%20Tipo%20de%20Combust%C3%ADvel.py) | Python
+| 1142 | [PUM](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1142%20-%20PUM.py) | Python
+| 1143 | [Quadrado e ao Cubo](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1143%20-%20Quadrado%20e%20ao%20Cubo.py) | Python
+| 1144 | [Sequência Lógica](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1144%20-%20Sequ%C3%AAncia%20L%C3%B3gica.py) | Python
+| 1145 | [Sequência Lógica 2](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1145%20-%20Sequ%C3%AAncia%20L%C3%B3gica%202.py) | Python
+| 1146 | [Sequências Crescentes](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1146%20-%20Sequ%C3%AAncias%20Crescentes.py) | Python
+| 1149 | [Somando Inteiros Consecutivos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1149%20-%20Somando%20Inteiros%20Consecutivos.py) | Python
 
 
 
