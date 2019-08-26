@@ -86,6 +86,29 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1145 | [Sequência Lógica 2](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1145%20-%20Sequ%C3%AAncia%20L%C3%B3gica%202.py) | Python
 | 1146 | [Sequências Crescentes](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1146%20-%20Sequ%C3%AAncias%20Crescentes.py) | Python
 | 1149 | [Somando Inteiros Consecutivos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1149%20-%20Somando%20Inteiros%20Consecutivos.py) | Python
+| #1150 | [Ultrapassando Z]() | Python
+| 1151 | [Fibonacci Fácil]() | Python
+| 1153 | [Fatorial Simples]() | Python
+| 1154 | [Idades]() | Python
+| 1155 | [Sequência S]() | Python
+| 1156 | [Sequência S II]() | Python
+| 1157 | [Divisores I]() | Python
+| #1158 | [Soma de Ímpares Consecutivos III]() | Python
+| 1159 | [Soma de Pares Consecutivos]() | Python
+| #1160 | [Crescimento Populacional]() | Python
+| #1164 | [Número Perfeito]() | Python
+| #1165 | [Número Primo]() | Python
+| #1172 | [Substituição em Vetor I]() | Python
+| #1173 | [Preenchimento de Vetor I]() | Python
+| #1174 | [Seleçao em Vetor I]() | Python
+| 1175 | [Troca em Vetor I]() | Python
+| #1176 | [Fibonacci em Vetor]() | Python
+| 1177 | [Preenchimento de Vetor II]() | Python
+| #1178 | [Preenchimento de Vetor III]() | Python
+| #1179 | [Preenchimento de Vetor IV]() | Python
+| #1180 | [Menor e Posição]() | Python
+| #1181 | [Linha na Matriz]() | Python
+| #1182 | [Coluna na Matriz]() | Python
 
 
 
