@@ -92,7 +92,7 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1154 | [Idades](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1154%20-%20Idades.py) | Python
 | 1155 | [Sequência S](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/%201155%20-%20Sequ%C3%AAncia%20S.py) | Python
 | 1156 | [Sequência S II](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1156%20-%20Sequ%C3%AAncia%20S%20II.py) | Python
-| 1157 | [Divisores I]() | Python
+| 1157 | [Divisores I](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/%201157%20-%20Divisores%20I.py) | Python
 | #1158 | [Soma de Ímpares Consecutivos III]() | Python
 | 1159 | [Soma de Pares Consecutivos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1159%20-%20Soma%20de%20Pares%20Consecutivos.py) | Python
 | #1160 | [Crescimento Populacional]() | Python
