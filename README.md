@@ -87,23 +87,23 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1146 | [Sequências Crescentes](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1146%20-%20Sequ%C3%AAncias%20Crescentes.py) | Python
 | 1149 | [Somando Inteiros Consecutivos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1149%20-%20Somando%20Inteiros%20Consecutivos.py) | Python
 | #1150 | [Ultrapassando Z]() | Python
-| 1151 | [Fibonacci Fácil]() | Python
-| 1153 | [Fatorial Simples]() | Python
-| 1154 | [Idades]() | Python
+| 1151 | [Fibonacci Fácil](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1151%20-%20Fibonacci%20F%C3%A1cil.py) | Python
+| 1153 | [Fatorial Simples](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1153%20-%20Fatorial%20Simples.py) | Python
+| 1154 | [Idades](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1154%20-%20Idades.py) | Python
 | 1155 | [Sequência S]() | Python
 | 1156 | [Sequência S II]() | Python
 | 1157 | [Divisores I]() | Python
 | #1158 | [Soma de Ímpares Consecutivos III]() | Python
-| 1159 | [Soma de Pares Consecutivos]() | Python
+| 1159 | [Soma de Pares Consecutivos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1159%20-%20Soma%20de%20Pares%20Consecutivos.py) | Python
 | #1160 | [Crescimento Populacional]() | Python
 | #1164 | [Número Perfeito]() | Python
 | #1165 | [Número Primo]() | Python
 | #1172 | [Substituição em Vetor I]() | Python
 | #1173 | [Preenchimento de Vetor I]() | Python
 | #1174 | [Seleçao em Vetor I]() | Python
-| 1175 | [Troca em Vetor I]() | Python
+| 1175 | [Troca em Vetor I](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1175%20-%20Troca%20em%20Vetor.py) | Python
 | #1176 | [Fibonacci em Vetor]() | Python
-| 1177 | [Preenchimento de Vetor II]() | Python
+| 1177 | [Preenchimento de Vetor II](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1177%20-%20Preenchimento%20de%20Vetor%20II.py) | Python
 | #1178 | [Preenchimento de Vetor III]() | Python
 | #1179 | [Preenchimento de Vetor IV]() | Python
 | #1180 | [Menor e Posição]() | Python
