@@ -86,7 +86,7 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1145 | [Sequência Lógica 2](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1145%20-%20Sequ%C3%AAncia%20L%C3%B3gica%202.py) | Python
 | 1146 | [Sequências Crescentes](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1146%20-%20Sequ%C3%AAncias%20Crescentes.py) | Python
 | 1149 | [Somando Inteiros Consecutivos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1149%20-%20Somando%20Inteiros%20Consecutivos.py) | Python
-| #1150 | [Ultrapassando Z]() | Python
+| 1150 | [Ultrapassando Z](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1150%20-%20Ultrapassando%20Z.py) | Python
 | 1151 | [Fibonacci Fácil](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1151%20-%20Fibonacci%20F%C3%A1cil.py) | Python
 | 1153 | [Fatorial Simples](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1153%20-%20Fatorial%20Simples.py) | Python
 | 1154 | [Idades](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1154%20-%20Idades.py) | Python
