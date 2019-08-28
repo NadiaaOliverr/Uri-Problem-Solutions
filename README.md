@@ -96,7 +96,7 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1158 | [Soma de Ímpares Consecutivos III](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1158%20-%20Soma%20de%20%C3%8Dmpares%20Consecutivos%20III.py) | Python
 | 1159 | [Soma de Pares Consecutivos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1159%20-%20Soma%20de%20Pares%20Consecutivos.py) | Python
 | #1160 | [Crescimento Populacional]() | Python
-| #1164 | [Número Perfeito]() | Python
+| 1164 | [Número Perfeito](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1164%20-%20N%C3%BAmero%20Perfeito.py) | Python
 | #1165 | [Número Primo]() | Python
 | #1172 | [Substituição em Vetor I]() | Python
 | #1173 | [Preenchimento de Vetor I]() | Python
