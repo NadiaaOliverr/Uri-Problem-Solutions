@@ -86,17 +86,17 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1145 | [Sequência Lógica 2](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1145%20-%20Sequ%C3%AAncia%20L%C3%B3gica%202.py) | Python
 | 1146 | [Sequências Crescentes](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1146%20-%20Sequ%C3%AAncias%20Crescentes.py) | Python
 | 1149 | [Somando Inteiros Consecutivos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1149%20-%20Somando%20Inteiros%20Consecutivos.py) | Python
-| #1150 | [Ultrapassando Z]() | Python
+| 1150 | [Ultrapassando Z](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1150%20-%20Ultrapassando%20Z.py) | Python
 | 1151 | [Fibonacci Fácil](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1151%20-%20Fibonacci%20F%C3%A1cil.py) | Python
 | 1153 | [Fatorial Simples](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1153%20-%20Fatorial%20Simples.py) | Python
 | 1154 | [Idades](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1154%20-%20Idades.py) | Python
 | 1155 | [Sequência S](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/%201155%20-%20Sequ%C3%AAncia%20S.py) | Python
 | 1156 | [Sequência S II](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1156%20-%20Sequ%C3%AAncia%20S%20II.py) | Python
 | 1157 | [Divisores I](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/%201157%20-%20Divisores%20I.py) | Python
-| #1158 | [Soma de Ímpares Consecutivos III]() | Python
+| 1158 | [Soma de Ímpares Consecutivos III](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1158%20-%20Soma%20de%20%C3%8Dmpares%20Consecutivos%20III.py) | Python
 | 1159 | [Soma de Pares Consecutivos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1159%20-%20Soma%20de%20Pares%20Consecutivos.py) | Python
 | #1160 | [Crescimento Populacional]() | Python
-| #1164 | [Número Perfeito]() | Python
+| 1164 | [Número Perfeito](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1164%20-%20N%C3%BAmero%20Perfeito.py) | Python
 | #1165 | [Número Primo]() | Python
 | #1172 | [Substituição em Vetor I]() | Python
 | #1173 | [Preenchimento de Vetor I]() | Python
