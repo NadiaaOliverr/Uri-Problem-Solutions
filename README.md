@@ -95,14 +95,14 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1157 | [Divisores I](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/%201157%20-%20Divisores%20I.py) | Python
 | 1158 | [Soma de Ímpares Consecutivos III](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1158%20-%20Soma%20de%20%C3%8Dmpares%20Consecutivos%20III.py) | Python
 | 1159 | [Soma de Pares Consecutivos](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1159%20-%20Soma%20de%20Pares%20Consecutivos.py) | Python
-| #1160 | [Crescimento Populacional]() | Python
+| 1160 | [Crescimento Populacional](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1160%20-%20Crescimento%20Populacional.py) | Python
 | 1164 | [Número Perfeito](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1164%20-%20N%C3%BAmero%20Perfeito.py) | Python
-| #1165 | [Número Primo]() | Python
-| #1172 | [Substituição em Vetor I]() | Python
-| #1173 | [Preenchimento de Vetor I]() | Python
-| #1174 | [Seleçao em Vetor I]() | Python
+| 1165 | [Número Primo](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1165%20-%20N%C3%BAmero%20Primo.py) | Python
+| 1172 | [Substituição em Vetor I](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1172%20-%20Substitui%C3%A7%C3%A3o%20em%20Vetor%20I.py) | Python
+| 1173 | [Preenchimento de Vetor I](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1173%20-%20Preenchimento%20de%20Vetor%20I.py) | Python
+| 1174 | [Seleçao em Vetor I](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1174%20-%20Sele%C3%A7ao%20em%20Vetor%20I.py) | Python
 | 1175 | [Troca em Vetor I](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1175%20-%20Troca%20em%20Vetor.py) | Python
-| #1176 | [Fibonacci em Vetor]() | Python
+| 1176 | [Fibonacci em Vetor](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1176%20-%20Fibonacci%20em%20Vetor.py) | Python
 | 1177 | [Preenchimento de Vetor II](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1177%20-%20Preenchimento%20de%20Vetor%20II.py) | Python
 | #1178 | [Preenchimento de Vetor III]() | Python
 | #1179 | [Preenchimento de Vetor IV]() | Python
