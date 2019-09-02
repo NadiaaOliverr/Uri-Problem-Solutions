@@ -107,8 +107,8 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1178 | [Preenchimento de Vetor III](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1178%20-%20Preenchimento%20de%20Vetor%20III.py) | Python
 | 1179 | [Preenchimento de Vetor IV](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1179%20-%20Preenchimento%20de%20Vetor%20IV.py) | Python
 | 1180 | [Menor e Posição](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1180%20-%20Menor%20e%20Posi%C3%A7%C3%A3o.py) | Python
-| #1181 | [Linha na Matriz]() | Python
-| #1182 | [Coluna na Matriz]() | Python
+| 1181 | [Linha na Matriz](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1181%20-%20Linha%20na%20Matriz.c) | C
+| 1182 | [Coluna na Matriz](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1182%20-%20Coluna%20na%20Matriz.c) | C
 
 
 
