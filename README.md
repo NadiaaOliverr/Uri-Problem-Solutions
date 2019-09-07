@@ -109,7 +109,10 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1180 | [Menor e Posição](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1180%20-%20Menor%20e%20Posi%C3%A7%C3%A3o.py) | Python
 | 1181 | [Linha na Matriz](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1181%20-%20Linha%20na%20Matriz.c) | C
 | 1182 | [Coluna na Matriz](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1182%20-%20Coluna%20na%20Matriz.c) | C
-
+| 1183 | [Acima da Diagonal Principal](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1183%20-%20Acima%20da%20Diagonal%20Principal.c) | C
+| 1184 | [Abaixo da Diagonal Principal](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1184%20-%20Abaixo%20da%20Diagonal%20Principal.c) | C
+| 1185 | [Acima da Diagonal Secundária](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1185%20-%20Acima%20da%20Diagonal%20Secund%C3%A1ria.c) | C
+| 1186 | [Abaixo da Diagonal Secundária](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1186%20-%20Abaixo%20da%20Diagonal%20Secund%C3%A1ria.c) | C
 
 
 
