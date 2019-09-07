@@ -113,6 +113,10 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1184 | [Abaixo da Diagonal Principal](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1184%20-%20Abaixo%20da%20Diagonal%20Principal.c) | C
 | 1185 | [Acima da Diagonal Secundária](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1185%20-%20Acima%20da%20Diagonal%20Secund%C3%A1ria.c) | C
 | 1186 | [Abaixo da Diagonal Secundária](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1186%20-%20Abaixo%20da%20Diagonal%20Secund%C3%A1ria.c) | C
+| 1187 | [Área Superior](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1187%20-%20%C3%81rea%20Superior.c) | C
+| 1188 | [Área Inferior](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1188%20-%20%C3%81rea%20Inferior.c) | C
+| 1189 | [Área Esquerda](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1189%20-%20%C3%81rea%20Esquerda.c) | C
+| 1190 | [Área Direita](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1190%20-%20%C3%81rea%20Direita.c) | C
 
 
 
