@@ -117,8 +117,8 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1188 | [Área Inferior](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1188%20-%20%C3%81rea%20Inferior.c) | C
 | 1189 | [Área Esquerda](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1189%20-%20%C3%81rea%20Esquerda.c) | C
 | 1190 | [Área Direita](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1190%20-%20%C3%81rea%20Direita.c) | C
-| 1589 | [Bob Conduite]() | Python
-| 1865 | [Mjölnir]() | Pyhton
+| 1589 | [Bob Conduite](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1589%20-%20Bob%20Conduite.py) | Python
+| 1865 | [Mjölnir](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1865%20-%20Mj%C3%B6lnir.py) | Pyhton
 
 <!--
 | 1435 | [Matriz Quadrada I]() | C
