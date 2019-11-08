@@ -117,11 +117,27 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1188 | [Área Inferior](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1188%20-%20%C3%81rea%20Inferior.c) | C
 | 1189 | [Área Esquerda](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1189%20-%20%C3%81rea%20Esquerda.c) | C
 | 1190 | [Área Direita](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1190%20-%20%C3%81rea%20Direita.c) | C
-<!--| 1435 | [Matriz Quadrada I]() | C
+| 1589 | [Bob Conduite]() | Python
+| 1865 | [Mjölnir]() | Pyhton
+
+<!--
+| 1435 | [Matriz Quadrada I]() | C
 | 1478 | [Matriz Quadrada II]() | C
 | 1534 | [Matriz 123]() | C
 | 1541 | [Construindo Casas]() | C
-| 1557 | [Matriz Quadrada III]() | C-->
-
+| 1557 | [Matriz Quadrada III]() | C
+| 1564 | [Vai Ter Copa?]() | C-->
+<!---AQUI FICAVA O BOB CONDUITE-->
+<!--
+| 1759 | [Ho Ho Ho]() | C
+| 1789 | [A Corrida de Lesmas]() | C
+| 1827 | [Matriz Quadrada IV]() | C
+| 1828 | [Bazinga!]() | C
+| 1837 | [Prefácio]() | C
+| 1847 | [Bem-vindos e Bem-vindas ao Inverno!]() | C
+| 1848 | [Corvo Contador]() | C
+| 1858 | [A Resposta de Theon]() | C
+| 1864 | [Nossos Dias Nunca Voltarão]]() | C
+<!---AQUI FICAVA O MJOLNIR-->
 
 **Quer ajudar a construir este repositório? Envie uma pull request com sua resolução** :wink:
