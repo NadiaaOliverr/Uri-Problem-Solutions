@@ -119,6 +119,8 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1190 | [Área Direita](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1190%20-%20%C3%81rea%20Direita.c) | C
 | 1589 | [Bob Conduite](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1589%20-%20Bob%20Conduite.py) | Python
 | 1865 | [Mjölnir](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1865%20-%20Mj%C3%B6lnir.py) | Pyhton
+| 1858 | [A Resposta de Theon](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1858%20-%20A%20Resposta%20de%20Theon.py) | Python
+| 1864 | [Nossos Dias Nunca Voltarão](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1864%20-%20Nossos%20Dias%20Nunca%20Voltar%C3%A3o.py) | Python
 
 <!--
 | 1435 | [Matriz Quadrada I]() | C
@@ -136,8 +138,7 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1837 | [Prefácio]() | C
 | 1847 | [Bem-vindos e Bem-vindas ao Inverno!]() | C
 | 1848 | [Corvo Contador]() | C
-| 1858 | [A Resposta de Theon]() | C
-| 1864 | [Nossos Dias Nunca Voltarão]]() | C
+
 <!---AQUI FICAVA O MJOLNIR-->
 
 **Quer ajudar a construir este repositório? Envie uma pull request com sua resolução** :wink:
