@@ -9,7 +9,7 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 
 | **Número do Problema** | **Nome do Problema** | **Linguagem** |
 |:------------------:|----------------|:--------:|
-|        1001        |  Extremamente Básico |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1001%20-%20Extremamente%20B%C3%A1sico.c)  \| Python   |
+|        1001        |  Extremamente Básico |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1001%20-%20Extremamente%20B%C3%A1sico.c)   |
 |        1002        |    Área do Círculo   |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.c)    |
 |        1003        |    Soma Simples    |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1003%20-%20Soma%20Simples.c)    |
 |        1004        |  Produto Simples  |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1004%20-%20Produto%20Simples.c)    |
