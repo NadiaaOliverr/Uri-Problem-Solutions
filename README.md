@@ -9,9 +9,9 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 
 | **Número do Problema** | **Nome do Problema** | **Linguagem** |
 |:------------------:|----------------|:--------:|
-|        1001        |  Extremamente Básico |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1001%20-%20Extremamente%20B%C3%A1sico.c)   |
-|        1002        |    Área do Círculo   |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.c)    |
-|        1003        |    Soma Simples    |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1003%20-%20Soma%20Simples.c)    |
+|        1001        |  Extremamente Básico |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1001%20-%20Extremamente%20B%C3%A1sico.c) \| [Python3](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1001%20-%20Extremamente%20B%C3%A1sico.py) |
+|        1002        |    Área do Círculo   |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.c) \| [Python3](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.py)    |
+|        1003        |    Soma Simples    |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1003%20-%20Soma%20Simples.c) \| [Python3](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1003%20-%20Soma%20Simples.py)   |
 |        1004        |  Produto Simples  |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1004%20-%20Produto%20Simples.c)    |
 |        1005        |     Média 1    |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1005%20-%20M%C3%A9dia%201.c)    |
 |        1006        |     Média 2    |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1006%20-%20M%C3%A9dia%202.c)    |
