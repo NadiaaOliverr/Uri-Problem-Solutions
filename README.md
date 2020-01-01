@@ -1,6 +1,6 @@
 <p align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img width="200" height="100" src="https://user-images.githubusercontent.com/41811634/63442127-f0c90880-c408-11e9-96c5-b3a3168e3d2f.png">
 </p>
@@ -152,6 +152,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/NadiaaOliverr"><img src="https://avatars2.githubusercontent.com/u/41811634?v=4" width="100px;" alt=""/><br /><sub><b>Nádia Oliveira</b></sub></a><br /><a href="https://github.com/NadiaaOliverr/Uri-Problem-Solutions/commits?author=NadiaaOliverr" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/marcosolvr"><img src="https://avatars0.githubusercontent.com/u/32722681?v=4" width="100px;" alt=""/><br /><sub><b>Marcos Oliveira</b></sub></a><br /><a href="https://github.com/NadiaaOliverr/Uri-Problem-Solutions/commits?author=marcosolvr" title="Code">💻</a></td>
   </tr>
 </table>
 
