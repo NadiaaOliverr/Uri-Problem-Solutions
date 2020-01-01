@@ -1,4 +1,7 @@
 <p align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img width="200" height="100" src="https://user-images.githubusercontent.com/41811634/63442127-f0c90880-c408-11e9-96c5-b3a3168e3d2f.png">
 </p>
 
@@ -138,3 +141,22 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1848 | [Corvo Contador]() | C -->
 
 **Quer ajudar a construir este repositório? Envie uma pull request com sua resolução** :wink:
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/NadiaaOliverr"><img src="https://avatars2.githubusercontent.com/u/41811634?v=4" width="100px;" alt=""/><br /><sub><b>Nádia Oliveira</b></sub></a><br /><a href="https://github.com/NadiaaOliverr/Uri-Problem-Solutions/commits?author=NadiaaOliverr" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
