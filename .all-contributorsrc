@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "NadiaaOliverr",
+      "name": "Nádia Oliveira",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/41811634?v=4",
+      "profile": "https://github.com/NadiaaOliverr",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Uri-Problem-Solutions",
+  "projectOwner": "NadiaaOliverr",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
