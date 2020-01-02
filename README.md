@@ -123,6 +123,10 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1865 | Mjölnir | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1865%20-%20Mj%C3%B6lnir.py)
 | 1858 | A Resposta de Theon | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1858%20-%20A%20Resposta%20de%20Theon.py)
 | 1864 | Nossos Dias Nunca Voltarão | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1864%20-%20Nossos%20Dias%20Nunca%20Voltar%C3%A3o.py)
+| 1866 | Conta | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1866%20-%20Conta.py)
+| 1924 | Vitória e a Indecisão | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1924%20-%20Vit%C3%B3ria%20e%20a%20Indecis%C3%A3o.py)
+| 1930 | Tomadas | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1930%20-%20Tomadas.py)
+
 
 <!-- Page Five
 | 1435 | [Matriz Quadrada I]() | C
@@ -141,8 +145,6 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 
 ## Contribuidores ✨
 
-Um obrigado a estas pessoas maravilhosas
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -156,5 +158,3 @@ Um obrigado a estas pessoas maravilhosas
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
