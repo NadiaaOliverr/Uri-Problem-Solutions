@@ -141,9 +141,8 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1847 | [Bem-vindos e Bem-vindas ao Inverno!]() | C
 | 1848 | [Corvo Contador]() | C -->
 
-**Quer ajudar a construir este repositório? Envie uma pull request com sua resolução** :wink:
 
-## Contribuidores ✨
+### Contribuidores ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -154,6 +153,8 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
     <td align="center"><a href="https://github.com/marcosolvr"><img src="https://avatars0.githubusercontent.com/u/32722681?v=4" width="100px;" alt=""/><br /><sub><b>Marcos Oliveira</b></sub></a><br /><a href="https://github.com/NadiaaOliverr/Uri-Problem-Solutions/commits?author=marcosolvr" title="Code">💻</a></td>
   </tr>
 </table>
+
+**Quer ajudar a construir este repositório? Envie uma pull request com sua resolução** :wink:
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
