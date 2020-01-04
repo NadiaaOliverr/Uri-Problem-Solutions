@@ -4,14 +4,15 @@
 
 ## Sobre o Projeto :muscle:
 Com o intuito de aprimorar minhas **skills** de **resolução de problemas** codifiquei vários exercícios do nível iniciante do [Uri Online Judge](https://www.urionlinejudge.com.br/judge/pt), que é um plataforma que permite a submissão de solução em diversas linguagens, além de ter uma vasta gama de categorias de problemas, por exemplo; iniciante, strings, estruturas, dentre outros. 
+**Obs:** Nos códigos em Python é utilizado o Python3.
 
 ## Problemas resolvidos :rocket: 
 
 | **Número do Problema** | **Nome do Problema** | **Linguagem** |
 |:------------------:|----------------|:--------:|
-|        1001        |  Extremamente Básico |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1001%20-%20Extremamente%20B%C3%A1sico.c) \| [Python3](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1001%20-%20Extremamente%20B%C3%A1sico.py) |
-|        1002        |    Área do Círculo   |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.c) \| [Python3](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.py)    |
-|        1003        |    Soma Simples    |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1003%20-%20Soma%20Simples.c) \| [Python3](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1003%20-%20Soma%20Simples.py)   |
+|        1001        |  Extremamente Básico |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1001%20-%20Extremamente%20B%C3%A1sico.c) \| [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1001%20-%20Extremamente%20B%C3%A1sico.py) |
+|        1002        |    Área do Círculo   |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.c) \| [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.py)    |
+|        1003        |    Soma Simples    |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1003%20-%20Soma%20Simples.c) \| [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1003%20-%20Soma%20Simples.py)   |
 |        1004        |  Produto Simples  |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1004%20-%20Produto%20Simples.c)    |
 |        1005        |     Média 1    |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1005%20-%20M%C3%A9dia%201.c)    |
 |        1006        |     Média 2    |     [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1006%20-%20M%C3%A9dia%202.c)    |
@@ -124,8 +125,12 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1858 | A Resposta de Theon | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1858%20-%20A%20Resposta%20de%20Theon.py)
 | 1864 | Nossos Dias Nunca Voltarão | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1864%20-%20Nossos%20Dias%20Nunca%20Voltar%C3%A3o.py)
 | 1866 | Conta | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1866%20-%20Conta.py)
+| 1914 | De quem é a vez ? | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1914%20-%20De%20Quem%20%C3%A9%20a%20Vez%3F.py)
 | 1924 | Vitória e a Indecisão | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1924%20-%20Vit%C3%B3ria%20e%20a%20Indecis%C3%A3o.py)
+| 1929 | Triângulo | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1929%20-%20Tri%C3%A2ngulo.py)
 | 1930 | Tomadas | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1930%20-%20Tomadas.py)
+| 1933 | Tri-du | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1933%20-%20Tri-du.py)
+| 1957 | Converter para Hexadecimal | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1957%20-%20Converter%20para%20Hexadecimal.py)
 
 
 <!-- Page Five
