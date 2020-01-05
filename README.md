@@ -133,6 +133,8 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1957 | Converter para Hexadecimal | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1957%20-%20Converter%20para%20Hexadecimal.py)
 | 1959 | Polígonos Regulares Simples | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1959%20-%20Pol%C3%ADgonos%20Regulares%20Simples.py)
 | 1960 | Numeração Romana para Números de Página | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1960%20-%20Numera%C3%A7%C3%A3o%20Romana%20para%20N%C3%BAmeros%20de%20P%C3%A1gina.py)
+| 1985 | 	MacPRONALTS | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1985%20-%20MacPRONALTS.py)
+| 2006 | 	Identificando o Chá | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/2006%20-%20Identificando%20o%20Ch%C3%A1.py)
 | 2060 | Desafio de Bino | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/2060%20-%20Desafio%20de%20Bino.py)
 
 
