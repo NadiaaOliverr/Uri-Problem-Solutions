@@ -153,6 +153,10 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1847 | [Bem-vindos e Bem-vindas ao Inverno!]() | C
 | 1848 | [Corvo Contador]() | C -->
 
+<!-- Page 12 -->
+| 2949 | A Sociedade do Anel | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/2949%20-%20A%20Sociedade%20do%20Anel.py)
+
+
 
 ### Contribuidores ✨
 
