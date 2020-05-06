@@ -137,7 +137,9 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1963 | O Filme | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1963%20-%20O%20Filme.py)
 | 1985 | 	MacPRONALTS | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1985%20-%20MacPRONALTS.py)
 | 2006 | 	Identificando o Chá | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/2006%20-%20Identificando%20o%20Ch%C3%A1.py)
+| 2057 | Fuso Horário | [Python]()
 | 2060 | Desafio de Bino | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/2060%20-%20Desafio%20de%20Bino.py)
+| 2061 | As Abas de Péricles | [Python]()
 | 2949 | A Sociedade do Anel | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/2949%20-%20A%20Sociedade%20do%20Anel.py) <!-- Page 12 -->
 | 2950 | As Duas Torres | [Python]() <!-- Page 12 -->
 | 2951 | O Retorno do Rei | [Python]() <!-- Page 12 -->
