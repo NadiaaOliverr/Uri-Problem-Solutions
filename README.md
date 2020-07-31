@@ -118,6 +118,7 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1188 | Área Inferior | [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1188%20-%20%C3%81rea%20Inferior.c)
 | 1189 | Área Esquerda | [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1189%20-%20%C3%81rea%20Esquerda.c)
 | 1190 | Área Direita | [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1190%20-%20%C3%81rea%20Direita.c)
+| 1471 | Mergulho Perigoso | [C](https://github.com/littlebru/Uri-Problem-Solutions/blob/master/C/1471%20-%20Mergulho%20Perigoso.c)
 | 1589 | Bob Conduite | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1589%20-%20Bob%20Conduite.py)
 | 1759 | Ho Ho Ho | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1759%20-%20Ho%20Ho%20Ho.py)
 | 1837 | Prefácio | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1837%20-%20Pref%C3%A1cio.py)
