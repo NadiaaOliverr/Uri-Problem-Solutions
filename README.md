@@ -118,6 +118,7 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
 | 1188 | Área Inferior | [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1188%20-%20%C3%81rea%20Inferior.c)
 | 1189 | Área Esquerda | [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1189%20-%20%C3%81rea%20Esquerda.c)
 | 1190 | Área Direita | [C](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1190%20-%20%C3%81rea%20Direita.c)
+| 1471 | Mergulho Perigoso | [C](https://github.com/littlebru/Uri-Problem-Solutions/blob/master/C/1471%20-%20Mergulho%20Perigoso.c)
 | 1589 | Bob Conduite | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1589%20-%20Bob%20Conduite.py)
 | 1759 | Ho Ho Ho | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1759%20-%20Ho%20Ho%20Ho.py)
 | 1837 | Prefácio | [Python](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/Python/1837%20-%20Pref%C3%A1cio.py)
@@ -173,6 +174,7 @@ Com o intuito de aprimorar minhas **skills** de **resolução de problemas** cod
   <tr>
     <td align="center"><a href="https://github.com/NadiaaOliverr"><img src="https://avatars2.githubusercontent.com/u/41811634?v=4" width="100px;" alt=""/><br /><sub><b>Nádia Oliveira</b></sub></a><br /><a href="https://github.com/NadiaaOliverr/Uri-Problem-Solutions/commits?author=NadiaaOliverr" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/marcosolvr"><img src="https://avatars0.githubusercontent.com/u/32722681?v=4" width="100px;" alt=""/><br /><sub><b>Marcos Oliveira</b></sub></a><br /><a href="https://github.com/NadiaaOliverr/Uri-Problem-Solutions/commits?author=marcosolvr" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/littlebru"><img src="https://avatars2.githubusercontent.com/u/41810923?s=460&u=8d8d4ae12935891cc0d22448806768ac6dd0987e&v=4" width="100px;" alt=""/><br /><sub><b>Bruna Gomes</b></sub></a><br /><a href="https://github.com/NadiaaOliverr/Uri-Problem-Solutions/commits?author=littlebru" title="Code">💻</a></td>
   </tr>
 </table>
 
